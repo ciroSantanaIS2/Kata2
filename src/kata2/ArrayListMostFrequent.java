@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class ArrayListMostFrequent {
 
     public static void main(String[] args) {
-        int[] elements = {1, 2, 3, 4, 5, 1, 1, 1, 2, 2, 3, 1, 1, 2, 1, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8};
+        int[] elements = {1, 2, 3, 4, 5, 1, 1, 1, 2, 2, 3, 1, 1, 2, 1};
         ArrayList<Integer> frequencies = new ArrayList<>();
         
         for (int i = 0; i < elements.length; i++) {
