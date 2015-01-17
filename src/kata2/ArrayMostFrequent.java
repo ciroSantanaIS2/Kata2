@@ -21,7 +21,7 @@ public class ArrayMostFrequent {
         }
         
         System.out.println("El elemento que más veces se repite es el " + number + ", que se repite "
-        + times + "veces.");
+        + times + " veces.");
     }
     
 }
